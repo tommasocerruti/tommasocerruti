@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I just started my journey as a Software Engineer, keep an eye on my profile to check my latest projects!\n
+I just started my journey as a Software Engineer, keep an eye on my profile to check my latest projects!
+
 All the repos x-learning are dedicated to learn the x-technology.
 
 [![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasocerruti)](https://github.com/anuraghazra/github-readme-stats)
