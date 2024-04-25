@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I just started my journey as a Software Engineer, keep an eye on my profile to check my latest projects!
 
-[![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasocerruti)](https://github.com/anuraghazra/github-readme-stats)
+[![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasocerruti&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasocerruti&hide_progress=true)
