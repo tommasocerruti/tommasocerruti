@@ -42,7 +42,7 @@
 
 ### 🎨 Fun Stuff
 
-- 🌱 Always learning new things, especially in ML and data science.
+- 🌱 Always learning new things, especially in ML, data science and software engineering.
 - 🚣 I am a competitive rower, I participated in different national and international competitions, and I am excited to participate in more!
 - ♟️ I love logic games like chess, queens, sudoku, and many more.
 - 🗣️ Not only programming languages, I love to learn spoken ones too. As of August 2024, I have a 640-day Duolingo streak, where other than Italian 🇮🇹, English 🇬🇧, and French 🇫🇷, I learn German 🇩🇪 and Turkish 🇹🇷.
