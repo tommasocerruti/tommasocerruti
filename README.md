@@ -1,7 +1,5 @@
 ### 👋 Ciao, I’m Tommaso
 
-![Profile Views](https://komarev.com/ghpvc/?username=tommasocerruti&color=blueviolet&style=plastic)
-
 ---
 
 ### 🚀 About Me
@@ -39,21 +37,12 @@
 ### 🔗 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/tommasocerruti/)
-- [Twitter](https://twitter.com/tommasocerruti)
-- [Personal Website/Blog](https://tommasocerruti.com)
 
 ---
 
 ### 🎨 Fun Stuff
 
-- 🌱 Always learning new things, especially in AI and data science.
-- 🎮 In my free time, I enjoy gaming and working on creative coding projects.
+- 🌱 Always learning new things, especially in ML and data science.
+- 🚣 In my free time, I am a competitive rower. I participated to different national and international competitions, and I am excited to participate in more!
 
 ---
-
-### 🎯 Goals for 2024
-
-- 🧠 Deepen my expertise in machine learning and AI.
-- 🛠️ Contribute to more open-source projects.
-- 🌍 Expand my network in the tech community.
-
