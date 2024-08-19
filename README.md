@@ -4,12 +4,12 @@
 
 ### 🚀 About Me
 
-- 🎓 **BEng in Computer Engineering** @ Politecnico di Torino (2020-2023)
-- 🚗 **ex Software Engineer** @ [Accenture](https://github.com/Accenture) (2023-2024) 
+- 🎓 **BEng in Computer Engineering** @ Politecnico di Torino (Sept.2020-Oct.2023)
+- 🚗 **ex Software Engineer** @ [Accenture](https://github.com/Accenture) (Oct.2023-Mar.2024) 
   - Worked on an automotive spare parts management application.
-- 🏠 **Software Engineer** @ [Casavo](https://github.com/casavo) (2024) 
+- 🏠 **Software Engineer** @ [Casavo](https://github.com/casavo) (Mar.2024-Sept.2024) 
   - Contributing to the main home financing applications.
-- 🎓 **MSc in Computer Science** @ ETH Zurich (2024-2026)
+- 🎓 **MSc in Computer Science** @ ETH Zurich (Sept.2024-Sept.2026)
   - Major: Machine Intelligence | Minor: Data Management
 
 ---
@@ -43,6 +43,10 @@
 ### 🎨 Fun Stuff
 
 - 🌱 Always learning new things, especially in ML and data science.
-- 🚣 In my free time, I am a competitive rower. I participated to different national and international competitions, and I am excited to participate in more!
+- 🚣 I am a competitive rower, I participated in different national and international competitions, and I am excited to participate in more!
+- ♟️ I love logic games like chess, queens, sudoku, and many more.
+- 🗣️ Not only programming languages, I love to learn spoken ones too. As of August 2024, I have a 640-day Duolingo streak, where other than Italian 🇮🇹, English 🇬🇧, and French 🇫🇷, I learn German 🇩🇪 and Turkish 🇹🇷.
+- 🏔️ I hike since I am a little kid, I have toured the [Mount Blanc](https://en.wikipedia.org/wiki/Mont_Blanc) and I plan to hike many Swiss mountains during my stay in Zurich.
+
 
 ---
