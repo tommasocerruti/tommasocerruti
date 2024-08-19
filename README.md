@@ -4,12 +4,12 @@
 
 ### 🚀 About Me
 
-- 🎓 **BEng in Computer Engineering** @ Politecnico di Torino (Sept.2020-Oct.2023)
+- 🎓 **BEng in Computer Engineering** @ [Politecnico di Torino](https://www.polito.it/) (Sept.2020-Oct.2023)
 - 🚗 **ex Software Engineer** @ [Accenture](https://github.com/Accenture) (Oct.2023-Mar.2024) 
   - Worked on an automotive spare parts management application.
 - 🏠 **Software Engineer** @ [Casavo](https://github.com/casavo) (Mar.2024-Sept.2024) 
   - Contributing to the main home financing applications.
-- 🎓 **MSc in Computer Science** @ ETH Zurich (Sept.2024-Sept.2026)
+- 🎓 **MSc in Computer Science** @ [ETH Zurich](https://ethz.ch/en.html) (Sept.2024-Sept.2026)
   - Major: Machine Intelligence | Minor: Data Management
 
 ---
