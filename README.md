@@ -1,6 +1,6 @@
 ### 👋 Ciao, I’m Tommaso
 
-[![Tommaso's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tommasocerruti&bg_color=0d1117&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tommasocerruti&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
