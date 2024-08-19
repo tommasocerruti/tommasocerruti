@@ -26,10 +26,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasocerruti&layout=compact&theme=tokyonight&hide_progress=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasocerruti&show_icons=true&theme=radical)
 
-Among all, my favorite programming language is C.   
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-But most of my ML projects involve Python.   
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+Among all, my favorite programming language is ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white).     
+But most of my ML projects involve ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54).    
 
 ---
 
