@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🎓 **BEng in Computer Engineering** @ Politecnico di Torino (2020-2023)
-- 💻 **ex Software Engineer** @ Accenture (2023-2024) 
+- 🚗 **ex Software Engineer** @ Accenture (2023-2024) 
   - Worked on an automotive spare parts management application.
 - 🏠 **Software Engineer** @ Casavo (2024-current) 
   - Contributing to the main home financing applications.
