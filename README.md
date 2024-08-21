@@ -16,7 +16,7 @@
 ---
 
 ### 💡 What I’m working on
-- 🔧 Building and maintaining personal projects across various domains, from low-level programming to advanced machine learning.
+- 🔧 Building and maintaining personal projects across various domains, from low-level programming to machine learning.
 - 📚 Sharing educational material from my studies at Politecnico di Torino and ETH Zurich.
 
 ---
@@ -51,7 +51,7 @@ But most of my ML and WebDev projects involve ![Python](https://img.shields.io/b
 - 🌱 Always learning new things, especially in ML, data science and software engineering.
 - 🚣 I am a competitive rower, I participated in different national and international competitions, and I am excited to participate in more!
 - ♟️ I love logic games like chess, queens, sudoku, and many more.
-- 🗣️ Not only programming languages, I love to learn spoken ones too. As of August 2024, I have a 640-day Duolingo streak, where other than Italian 🇮🇹, English 🇬🇧, and French 🇫🇷, I learn German 🇩🇪 and Turkish 🇹🇷. (PS: You can add me, my username is CERRU905)   
+- 🗣️ I also love to learn spoken languages too. As of today, I have a 2 years Duolingo streak, where other than Italian 🇮🇹, English 🇬🇧, and French 🇫🇷, I am learning German 🇩🇪 and Turkish 🇹🇷. (PS: You can add me, my username is CERRU905)   
 - 🏔️ I hike since I am a little kid, I have toured the [Mount Blanc](https://en.wikipedia.org/wiki/Mont_Blanc) and I plan to hike many Swiss mountains during my stay in Zurich.
 
 
