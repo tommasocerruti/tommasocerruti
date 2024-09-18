@@ -52,7 +52,7 @@ But most of my ML and WebDev projects involve ![Python](https://img.shields.io/b
 - 🚣 I am a competitive rower, I participated in different national and international competitions, and I am excited to participate in more!
 - ♟️ I love logic games like chess, queens, sudoku, and many more.
 - 🗣️ I also love to learn spoken languages too. As of today, I have a 2 years Duolingo streak, where other than Italian 🇮🇹, English 🇬🇧, and French 🇫🇷, I am learning German 🇩🇪 and Turkish 🇹🇷. (PS: You can add me, my username is CERRU905)   
-- 🏔️ I hike since I am a little kid, I have toured the [Mount Blanc](https://en.wikipedia.org/wiki/Mont_Blanc) and I plan to hike many Swiss mountains during my stay in Zurich.
+- 🏔️ I hike since I am a little kid, I have toured the Mount Blanc and I plan to hike many Swiss mountains during my stay in Zurich.
 
 
 ---
