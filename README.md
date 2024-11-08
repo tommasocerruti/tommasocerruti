@@ -15,26 +15,9 @@
 
 ---
 
-### 💡 What I’m working on
-- 🔧 Building and maintaining personal projects across various domains, from low-level programming to machine learning.
-- 📚 Sharing educational material from my studies at Politecnico di Torino and ETH Zurich.
-
----
-
 ### 🛠️ Technologies & Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasocerruti&layout=compact&theme=tokyonight&hide_progress=true)
-
-Among all, my favorite programming language is ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white).     
-But most of my ML and WebDev projects involve ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54).   
-[What's yours?](https://tommasocerruti.github.io/whats-your-favorite-programming-language/)
-
----
-
-### 🧑‍💻 Open Source Contributions
-
-- Check out my contributions on [GitHub](https://github.com/tommasocerruti) where I work on diverse projects.
-- I’m always excited to collaborate on open-source projects.
 
 ---
 
