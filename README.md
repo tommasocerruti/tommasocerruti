@@ -27,13 +27,3 @@
 - [Email](mailto:tommasocerruti@gmail.com)
 
 ---
-
-### 🎨 Fun Stuff
-
-- 🌱 Always learning new things, especially in ML, data science and software engineering.
-- 🚣 I am a competitive rower, I participated in different national and international competitions, and I am excited to participate in more!
-- ♟️ I love logic games like chess, queens, sudoku, and many more.
-- 🗣️ I also love to learn spoken languages too. As of today, I have a 2 years Duolingo streak, where other than Italian 🇮🇹, English 🇬🇧, and French 🇫🇷, I am learning German 🇩🇪 and Turkish 🇹🇷. (PS: You can add me, my username is CERRU905)   
-
-
----
